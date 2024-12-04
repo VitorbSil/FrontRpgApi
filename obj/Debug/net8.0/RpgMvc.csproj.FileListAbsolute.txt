@@ -34,3 +34,4 @@ D:\2DSVitor&Enzo\2DS_DesenvolvimentoDeSistemas\RpgMvc\obj\Debug\net8.0\refint\Rp
 D:\2DSVitor&Enzo\2DS_DesenvolvimentoDeSistemas\RpgMvc\obj\Debug\net8.0\RpgMvc.pdb
 D:\2DSVitor&Enzo\2DS_DesenvolvimentoDeSistemas\RpgMvc\obj\Debug\net8.0\RpgMvc.genruntimeconfig.cache
 D:\2DSVitor&Enzo\2DS_DesenvolvimentoDeSistemas\RpgMvc\obj\Debug\net8.0\ref\RpgMvc.dll
+D:\2DSVitor&Enzo\2DS_DesenvolvimentoDeSistemas\RpgMvc\obj\Debug\net8.0\RpgMvc.sourcelink.json
